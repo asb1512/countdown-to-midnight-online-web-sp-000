@@ -2,7 +2,7 @@
 
 def countdown(n)
   n = 10
-  while 
+  while n > 0
     
   end
 end
